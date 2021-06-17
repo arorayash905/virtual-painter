@@ -4,11 +4,11 @@ This is a Computer Vision-based Virtual Painter which allows the user to draw th
 
 Colors used in the application --- > Red, Green, and Blue respectively and an Eraser button in the end.
 
-## Q: How to Draw or Eraser the color?
-### A: The application will draw or erase the color only when only the index finger is UP.
+### Q: How to Draw or Eraser the color?
+A: The application will draw or erase the color only when only the index finger is UP.
 
-## Q: How to Select the Color or Eraser from the MENU?
-### A: The user has to take his index and middle finger on the button to select the color or Eraser from the MENU.
+### Q: How to Select the Color or Eraser from the MENU?
+A: The user has to take his index and middle finger on the button to select the color or Eraser from the MENU.
 
 Modules Used ---> MediaPipe, NumPy, os, time, cv2 
 
